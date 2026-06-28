@@ -222,3 +222,5 @@ __marimo__/
 *.db-shm
 *.db-wal
 
+# models
+models/
